@@ -81,7 +81,7 @@ public class datamahasiswa extends AppCompatActivity {
                                 break;
                             case 2 :
                                 SQLiteDatabase db = dbcenter.getWritableDatabase();
-                                db.execSQL("delete from biodata where nama = '"+selection+"'");
+                                db.execSQL("delete from biodata where nama ='"+selection+"'");
                                 RefreshList();
                                 break;
                         }

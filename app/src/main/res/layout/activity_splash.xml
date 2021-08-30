@@ -14,6 +14,12 @@
         android:id="@+id/logo"
         android:src="@drawable/student1"
         android:layout_centerVertical="true"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CRUD SQLLITE"
+        android:textColor="@color/colorAccent"
+        android:textSize="25dp"/>
     <ProgressBar
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

@@ -12,7 +12,7 @@
     tools:context="com.example.sekolah.activity.MainActivity">
     <ImageView
         android:layout_width="200dp"
-        android:layout_height="250dp"
+        android:layout_height="140dp"
         android:src="@drawable/student1" />
     <LinearLayout
         android:layout_marginTop="5dp"
@@ -23,13 +23,13 @@
         <ImageView
             android:layout_width="90dp"
             android:background="@drawable/stylebutton1"
-            android:layout_height="80dp"
+            android:layout_height="60dp"
             android:src="@drawable/ic_baseline_archive_24"/>
         <Button
             android:id="@+id/lihatbtn"
             android:layout_width="200dp"
             android:background="@drawable/stylebutton1"
-            android:layout_height="80dp"
+            android:layout_height="60dp"
             android:textSize="25sp"
             android:textColor="#ffffff"
             android:text="Lihat Data"/>
@@ -42,13 +42,13 @@
         <ImageView
             android:layout_width="90dp"
             android:background="@drawable/stylebutton2"
-            android:layout_height="80dp"
+            android:layout_height="60dp"
             android:src="@drawable/ic_baseline_add_box_24"/>
         <Button
             android:id="@+id/inputbtn"
             android:layout_width="200dp"
             android:background="@drawable/stylebutton2"
-            android:layout_height="80dp"
+            android:layout_height="60dp"
             android:textSize="25sp"
             android:textColor="#ffffff"
             android:text="Input data"/>
@@ -61,13 +61,13 @@
         <ImageView
             android:layout_width="90dp"
             android:background="@drawable/stylebutton3"
-            android:layout_height="80dp"
+            android:layout_height="60dp"
             android:src="@drawable/ic_baseline_info_24"/>
         <Button
             android:id="@+id/infobtn"
             android:layout_width="200dp"
             android:background="@drawable/stylebutton3"
-            android:layout_height="80dp"
+            android:layout_height="60dp"
             android:textSize="25sp"
             android:textColor="#ffffff"
             android:text="informasi"/>

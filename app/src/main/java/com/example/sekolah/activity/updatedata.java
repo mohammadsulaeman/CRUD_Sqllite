@@ -32,6 +32,7 @@ public class updatedata extends AppCompatActivity {
         text2 = (EditText) findViewById(R.id.editText2);
         text3 = (EditText) findViewById(R.id.editText3);
         text4 = (EditText) findViewById(R.id.editText4);
+        text5 = (EditText) findViewById(R.id.editText5);
         textV1=(TextView)findViewById(R.id.textView1);
         textV2=(TextView)findViewById(R.id.textView2);
         textV3=(TextView)findViewById(R.id.textView3);

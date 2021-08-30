@@ -37,7 +37,8 @@ public class inputdata extends AppCompatActivity {
         textV3=(TextView)findViewById(R.id.textView3);
         textV4=(TextView)findViewById(R.id.textView4);
         textV5=(TextView)findViewById(R.id.textView5);
-        ton1 = (Button) findViewById(R.id.button1);ton1.setOnClickListener(new View.OnClickListener() {
+        ton1 = (Button) findViewById(R.id.button1);
+        ton1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View arg0) {
 // TODO Auto-generated method stub
